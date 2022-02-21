@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @alexdara007
+- 👀 I’m interested in development.
+- 🌱 I’m currently learning Python
